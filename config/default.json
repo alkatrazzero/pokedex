@@ -1,0 +1,8 @@
+{
+  "port": 5000,
+  "mongoUri": "mongodb+srv://alkatrazzero:alkatrazzero1@cluster0.fsalm.mongodb.net/pokemons?retryWrites=true&w=majority",
+  "jwtSecret": "alkatrazzero mark vibranovsky",
+  "baseUrl": "http://localhost:5000",
+  "client Id": "1052136307223-b3a1bkm5gnba6o7ds8e22qplq7en5o3f.apps.googleusercontent.com"
+
+}

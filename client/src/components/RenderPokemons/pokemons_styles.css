@@ -1,0 +1,34 @@
+.allPokemons_row {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    /*margin-left: 100px;*/
+
+}
+.pokemonCard_container {
+    margin: 0 auto;
+    padding: 10px;
+    width: 400px;
+}
+
+.pokemonCard {
+    box-shadow:10px 5px 5px teal;
+    border-radius: 30px;
+    display: flex;
+    justify-content: center;
+
+}
+.pokemonCard_img{
+    width: 100px;
+    height: 100px;
+}
+.pokemonCard_body{}
+
+.modalWindow_row{
+    display: flex;
+    justify-content: space-between;
+}
+
+.modalWindow__info_img{
+    width: 200px;
+}
