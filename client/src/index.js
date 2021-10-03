@@ -1,4 +1,4 @@
-
+import 'antd/dist/antd.css';
 import store from "./store/store";
 import React from "react";
 import ReactDOM from "react-dom";

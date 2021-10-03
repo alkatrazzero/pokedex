@@ -1,5 +1,4 @@
 import React, {useEffect} from 'react'
-import "../Body.module.css"
 import 'antd/dist/antd.css';
 import { useSelector} from "react-redux";
 import {ComponentCreator} from "../componentCreatoeHelper";

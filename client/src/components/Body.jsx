@@ -1,8 +1,6 @@
 import React, {useState} from 'react'
 import {Pagination} from "antd";
-import s from "./Body.module.css"
 import {Input} from 'antd';
-import 'antd/dist/antd.css';
 import PokemonTypes from "./RenderRokemonTypes/PokemonTypes";
 import {ComponentCreator} from "./componentCreatoeHelper";
 import {useSelector} from "react-redux";
