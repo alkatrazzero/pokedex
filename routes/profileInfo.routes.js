@@ -6,8 +6,9 @@ router.post(
   '/profileInfo', auth,
   async (req, res) => {
     try {
+      console.log( req.body.user)
       const profileInfo =await ProfileInfo.findOneAndUpdate({owner: req.user.user_id},
-        req.body.user
+        req.body.user,
 
       )
 
